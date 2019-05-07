@@ -1,0 +1,21 @@
+Approach:
+Query
+Expression Tree
+Convert to MongoDb Query
+
+
+Aggregation Classifier
+SELECT Column pointer
+where clause pointer decoder
+
+
+How many engine types did Val Musetti use
+
+Aggregation classifier - COUNT
+
+SELECT column pointer - Engine
+
+WHERE clause pointer  decode
+WHERE Driver =Val Musett
+
+

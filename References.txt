@@ -1,0 +1,12 @@
+https://github.com/machinalis/quepy
+https://quepy.readthedocs.io/en/latest/tutorial.html
+http://quepy.machinalis.com/
+https://www.nlsql.com/how_it_works
+http://www.semantic-web-journal.net/system/files/swj1180.pdf
+https://www.lyonwj.com/2015/06/16/nlp-with-neo4j/
+https://friendlydata.io/
+https://github.com/salesforce/WikiSQL
+https://github.com/dadashkarimi/seq2sql
+https://www.upwork.com/hiring/data/sql-queries-with-nlp/
+https://www.nltk.org/book/ch10.html
+https://dzone.com/articles/nlp-tutorial-using-python-nltk-simple-examples
